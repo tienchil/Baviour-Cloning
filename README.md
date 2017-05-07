@@ -1,4 +1,4 @@
-# Behaviorial Cloning Project
+# Behavioral Cloning Project
 
 This project is the third one in Udacity's Self-Driving Car Nanodegree.
 The main goal of this project is to collect data from simulator provided by Udacity and use them to train and build a model such that the car will be **autonomous** and stay within the lane.
